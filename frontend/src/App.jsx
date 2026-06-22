@@ -31,7 +31,7 @@ function App() {
     if (file) formData.append('file', file);
     
     try {
-      const response = await axios.post(`http://127.0.0.1:8000/api/rank?use_bundled=${useBundled}`, formData, {
+      const response = await axios.post(`/api/rank?use_bundled=${useBundled}`, formData, {
         headers: { 'Content-Type': 'multipart/form-data' }
       });
       setData(response.data.candidates);

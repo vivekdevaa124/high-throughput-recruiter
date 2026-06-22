@@ -1,2 +1,3 @@
-# No external dependencies needed for the pure python heuristic engine.
-# Using standard library only to guarantee maximum compatibility and 0 install time.
+fastapi
+uvicorn
+python-multipart
