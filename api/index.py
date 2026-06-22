@@ -1,7 +1,10 @@
 from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 import json
-from rank import score_candidate
+try:
+    from rank import score_candidate
+except ImportError:
+    from api.rank import score_candidate
 import os
 
 app = FastAPI(title="Redrob AI Recruiter API")
