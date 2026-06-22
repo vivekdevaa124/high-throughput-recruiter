@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0000159,1,1.000,6 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000139,2,0.950,5 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000062,3,0.925,5 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000051,4,0.900,9 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000063,5,0.875,12 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000090,6,0.875,7 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000107,7,0.875,12 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000109,8,0.875,9 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000018,9,0.850,6 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000029,10,0.850,8 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000061,11,0.850,5 yrs exp in sweet spot; product company background; knows evaluation metrics.
+CAND_0000083,12,0.850,6 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000108,13,0.850,7 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000165,14,0.850,6 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000188,15,0.850,5 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000197,16,0.850,7 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000012,17,0.825,3 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000066,18,0.825,8 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000071,19,0.825,12 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000093,20,0.825,6 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000138,21,0.800,7 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000158,22,0.800,12 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000160,23,0.800,8 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000163,24,0.800,6 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000026,25,0.775,8 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000027,26,0.775,12 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000036,27,0.775,3 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000050,28,0.775,10 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000065,29,0.775,3 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000074,30,0.775,6 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000086,31,0.775,8 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000151,32,0.775,8 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000199,33,0.775,9 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000001,34,0.750,11 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000007,35,0.750,4 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000021,36,0.750,9 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000032,37,0.750,12 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000034,38,0.750,9 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000044,39,0.750,3 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000052,40,0.750,5 yrs exp in sweet spot; product company background; knows evaluation metrics.
+CAND_0000067,41,0.750,6 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000068,42,0.750,6 yrs exp in sweet spot; product company background.
+CAND_0000128,43,0.750,3 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000181,44,0.750,2 yrs exp (outside target); product company background; shipped retrieval/vector systems.
+CAND_0000017,45,0.725,6 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000056,46,0.725,8 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000064,47,0.725,13 yrs exp (outside target); product company background; shipped retrieval/vector systems.
+CAND_0000106,48,0.725,10 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000134,49,0.725,2 yrs exp (outside target); product company background; shipped retrieval/vector systems.
+CAND_0000174,50,0.725,3 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000183,51,0.725,2 yrs exp (outside target); product company background; shipped retrieval/vector systems.
+CAND_0000185,52,0.725,5 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000033,53,0.700,5 yrs exp in sweet spot; product company background; knows evaluation metrics.
+CAND_0000042,54,0.700,4 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000043,55,0.700,1 yrs exp (outside target); product company background; shipped retrieval/vector systems.
+CAND_0000053,56,0.700,12 yrs exp; product company background; knows evaluation metrics.
+CAND_0000073,57,0.700,3 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000081,58,0.700,6 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000094,59,0.700,2 yrs exp (outside target); product company background; shipped retrieval/vector systems.
+CAND_0000117,60,0.700,2 yrs exp (outside target); product company background; shipped retrieval/vector systems.
+CAND_0000182,61,0.700,4 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000002,62,0.675,6 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000009,63,0.675,2 yrs exp (outside target); product company background; shipped retrieval/vector systems.
+CAND_0000010,64,0.675,12 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000039,65,0.675,3 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000070,66,0.675,12 yrs exp; product company background.
+CAND_0000075,67,0.675,6 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000100,68,0.675,6 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000103,69,0.675,4 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000114,70,0.675,1 yrs exp (outside target); product company background; shipped retrieval/vector systems.
+CAND_0000127,71,0.675,14 yrs exp (outside target); product company background; shipped retrieval/vector systems.
+CAND_0000136,72,0.675,11 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000155,73,0.675,2 yrs exp (outside target); product company background; shipped retrieval/vector systems.
+CAND_0000178,74,0.675,4 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000031,75,0.650,14 yrs exp (outside target); product company background; shipped retrieval/vector systems.
+CAND_0000058,76,0.650,1 yrs exp (outside target); product company background; shipped retrieval/vector systems.
+CAND_0000078,77,0.650,12 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000085,78,0.650,6 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000092,79,0.650,12 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000111,80,0.650,2 yrs exp (outside target); product company background; shipped retrieval/vector systems.
+CAND_0000118,81,0.650,12 yrs exp; product company background; knows evaluation metrics.
+CAND_0000120,82,0.650,5 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000147,83,0.650,13 yrs exp (outside target); product company background; shipped retrieval/vector systems.
+CAND_0000171,84,0.650,4 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000180,85,0.650,7 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000194,86,0.650,4 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000015,87,0.625,8 yrs exp in sweet spot; product company background; knows evaluation metrics.
+CAND_0000019,88,0.625,4 yrs exp; product company background; knows evaluation metrics.
+CAND_0000030,89,0.625,12 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000045,90,0.625,10 yrs exp; product company background; shipped retrieval/vector systems.
+CAND_0000047,91,0.625,1 yrs exp (outside target); product company background; shipped retrieval/vector systems.
+CAND_0000089,92,0.625,1 yrs exp (outside target); product company background; shipped retrieval/vector systems.
+CAND_0000115,93,0.625,13 yrs exp (outside target); product company background; shipped retrieval/vector systems.
+CAND_0000116,94,0.625,2 yrs exp (outside target); product company background; shipped retrieval/vector systems.
+CAND_0000123,95,0.625,3 yrs exp; pure consulting background; shipped retrieval/vector systems.
+CAND_0000125,96,0.625,12 yrs exp; product company background; knows evaluation metrics.
+CAND_0000137,97,0.625,8 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000144,98,0.625,1 yrs exp (outside target); product company background; shipped retrieval/vector systems.
+CAND_0000145,99,0.625,7 yrs exp in sweet spot; product company background; shipped retrieval/vector systems.
+CAND_0000146,100,0.625,15 yrs exp (outside target); product company background; shipped retrieval/vector systems.

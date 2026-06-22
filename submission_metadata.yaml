@@ -1,0 +1,18 @@
+team_name: "Redrob Hackers"
+primary_contact_name: "John Doe"
+primary_contact_email: "johndoe@example.com"
+primary_contact_phone: "+1-555-010-9999"
+github_repository_url: "https://github.com/USERNAME/REPO"
+sandbox_demo_link: "https://huggingface.co/spaces/YOUR_SPACE"
+ai_tools_declared: 
+  - "Gemini"
+compute_environment_summary: "Intel Core i7, 16GB RAM, Python 3.12 (Windows)"
+team_member_list:
+  - name: "John Doe"
+    email: "johndoe@example.com"
+methodology_summary: >
+  We built a hyper-efficient, 20-second CPU-only heuristic ranking engine. 
+  It calculates a base technical merit score out of 1.0 focusing on Vector DBs, Evaluation metrics, 
+  and NLP background. Then, it utilizes the 23 redrob_signals (Response rate, Verification, 
+  Profile Completeness, Endorsements) as a compounding behavioral multiplier on the base score.
+  Finally, impossible candidate profiles are filtered out completely using our custom algorithmic honeypot-detector.

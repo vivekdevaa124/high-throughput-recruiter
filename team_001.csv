@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0043860,1,2.1360,6.1 yrs exp in core sweet spot; shipped vector db / hybrid search; eval frameworks (ndcg/mrr/a-b).
+CAND_0076482,2,2.1310,6.6 yrs exp in core sweet spot; product company experience; shipped vector db / hybrid search.
+CAND_0043637,3,2.0870,5.5 yrs exp; shipped vector db / hybrid search.
+CAND_0008295,4,1.9620,6.5 yrs exp in core sweet spot; shipped vector db / hybrid search.
+CAND_0032887,5,1.9620,6.1 yrs exp in core sweet spot; shipped vector db / hybrid search.
+CAND_0077337,6,1.9410,7.0 yrs exp in core sweet spot; shipped vector db / hybrid search; eval frameworks (ndcg/mrr/a-b).
+CAND_0096142,7,1.9220,5.0 yrs exp; product company experience; shipped vector db / hybrid search.
+CAND_0073883,8,1.8780,5.3 yrs exp; product company experience; shipped vector db / hybrid search.
+CAND_0070525,9,1.8730,5.4 yrs exp; embedding-based retrieval experience.
+CAND_0013440,10,1.8640,7.2 yrs exp in core sweet spot; product company experience; shipped vector db / hybrid search.
+CAND_0039587,11,1.8640,6.2 yrs exp in core sweet spot; shipped vector db / hybrid search; eval frameworks (ndcg/mrr/a-b).
+CAND_0068932,12,1.8500,5.2 yrs exp; shipped vector db / hybrid search; sub-30 notice.
+CAND_0080465,13,1.8350,Shipped vector db / hybrid search; eval frameworks (ndcg/mrr/a-b).
+CAND_0093763,14,1.8350,5.0 yrs exp; product company experience; shipped vector db / hybrid search.
+CAND_0094482,15,1.8350,6.4 yrs exp in core sweet spot; product company experience; shipped vector db / hybrid search.
+CAND_0063622,16,1.8340,5.2 yrs exp; product company experience; eval frameworks (ndcg/mrr/a-b).
+CAND_0089181,17,1.8170,7.7 yrs exp in core sweet spot; product company experience; shipped vector db / hybrid search.
+CAND_0096104,18,1.8110,7.0 yrs exp in core sweet spot; shipped vector db / hybrid search; sub-30 notice.
+CAND_0065786,19,1.7940,Product company experience; shipped vector db / hybrid search; eval frameworks (ndcg/mrr/a-b).
+CAND_0032311,20,1.7920,6.4 yrs exp in core sweet spot; product company experience; shipped vector db / hybrid search.
+CAND_0016659,21,1.7830,Product company experience; shipped vector db / hybrid search.
+CAND_0005269,22,1.7800,6.1 yrs exp in core sweet spot; shipped vector db / hybrid search; eval frameworks (ndcg/mrr/a-b).
+CAND_0081846,23,1.7800,6.7 yrs exp in core sweet spot; shipped vector db / hybrid search; eval frameworks (ndcg/mrr/a-b).
+CAND_0084943,24,1.7800,6.4 yrs exp in core sweet spot; product company experience; eval frameworks (ndcg/mrr/a-b).
+CAND_0005260,25,1.7650,5.2 yrs exp; product company experience; shipped vector db / hybrid search.
+CAND_0082086,26,1.7610,6.0 yrs exp in core sweet spot; product company experience; shipped vector db / hybrid search.
+CAND_0058152,27,1.7570,Product company experience; shipped vector db / hybrid search.
+CAND_0004402,28,1.7510,6.0 yrs exp in core sweet spot; product company experience; shipped vector db / hybrid search.
+CAND_0033179,29,1.7470,6.9 yrs exp in core sweet spot; shipped vector db / hybrid search; eval frameworks (ndcg/mrr/a-b).
+CAND_0061257,30,1.7470,8.0 yrs exp in core sweet spot; eval frameworks (ndcg/mrr/a-b); sub-30 notice.
+CAND_0089381,31,1.7470,6.0 yrs exp in core sweet spot; product company experience; shipped vector db / hybrid search.
+CAND_0093401,32,1.7430,6.0 yrs exp in core sweet spot; embedding-based retrieval experience; eval frameworks (ndcg/mrr/a-b).
+CAND_0073204,33,1.7330,Product company experience; shipped vector db / hybrid search.
+CAND_0062561,34,1.7240,5.9 yrs exp; shipped vector db / hybrid search; sub-30 notice.
+CAND_0005193,35,1.7170,6.2 yrs exp in core sweet spot; shipped vector db / hybrid search.
+CAND_0006757,36,1.7130,5.4 yrs exp; embedding-based retrieval experience; sub-30 notice.
+CAND_0033445,37,1.7120,6.8 yrs exp in core sweet spot; eval frameworks (ndcg/mrr/a-b); sub-30 notice.
+CAND_0007567,38,1.6950,6.1 yrs exp in core sweet spot; shipped vector db / hybrid search; eval frameworks (ndcg/mrr/a-b).
+CAND_0013456,39,1.6950,Product company experience; shipped vector db / hybrid search; eval frameworks (ndcg/mrr/a-b).
+CAND_0019143,40,1.6950,Product company experience; shipped vector db / hybrid search; eval frameworks (ndcg/mrr/a-b).
+CAND_0035321,41,1.6950,7.2 yrs exp in core sweet spot; product company experience; shipped vector db / hybrid search.
+CAND_0077031,42,1.6950,5.0 yrs exp; product company experience; shipped vector db / hybrid search.
+CAND_0092799,43,1.6950,5.1 yrs exp; product company experience; shipped vector db / hybrid search.
+CAND_0092839,44,1.6950,7.5 yrs exp in core sweet spot; shipped vector db / hybrid search; eval frameworks (ndcg/mrr/a-b).
+CAND_0094197,45,1.6950,6.6 yrs exp in core sweet spot; product company experience; shipped vector db / hybrid search.
+CAND_0097294,46,1.6950,7.4 yrs exp in core sweet spot; product company experience; shipped vector db / hybrid search.
+CAND_0099347,47,1.6950,Product company experience; shipped vector db / hybrid search; eval frameworks (ndcg/mrr/a-b).
+CAND_0072362,48,1.6910,5.7 yrs exp; product company experience; shipped vector db / hybrid search.
+CAND_0090816,49,1.6910,Product company experience; shipped vector db / hybrid search; eval frameworks (ndcg/mrr/a-b).
+CAND_0081480,50,1.6780,5.6 yrs exp; shipped vector db / hybrid search.
+CAND_0052431,51,1.6770,5.3 yrs exp; product company experience; shipped vector db / hybrid search.
+CAND_0053527,52,1.6680,7.0 yrs exp in core sweet spot; shipped vector db / hybrid search.
+CAND_0010149,53,1.6630,6.9 yrs exp in core sweet spot; shipped vector db / hybrid search; eval frameworks (ndcg/mrr/a-b).
+CAND_0016902,54,1.6600,6.4 yrs exp in core sweet spot; product company experience; eval frameworks (ndcg/mrr/a-b).
+CAND_0099965,55,1.6510,Shipped vector db / hybrid search; eval frameworks (ndcg/mrr/a-b).
+CAND_0073007,56,1.6500,5.8 yrs exp; shipped vector db / hybrid search; eval frameworks (ndcg/mrr/a-b).
+CAND_0002344,57,1.6470,Shipped vector db / hybrid search; eval frameworks (ndcg/mrr/a-b).
+CAND_0047276,58,1.6470,5.5 yrs exp; shipped vector db / hybrid search; sub-30 notice.
+CAND_0080534,59,1.6440,Shipped vector db / hybrid search; sub-30 notice.
+CAND_0056940,60,1.6430,7.4 yrs exp in core sweet spot; product company experience; sub-30 notice.
+CAND_0002793,61,1.6310,5.5 yrs exp; shipped vector db / hybrid search; sub-30 notice.
+CAND_0037706,62,1.6310,6.1 yrs exp in core sweet spot; shipped vector db / hybrid search; sub-30 notice.
+CAND_0017178,63,1.6300,Product company experience; eval frameworks (ndcg/mrr/a-b); sub-30 notice.
+CAND_0029213,64,1.6290,7.0 yrs exp in core sweet spot; product company experience.
+CAND_0015522,65,1.6270,Shipped vector db / hybrid search; sub-30 notice.
+CAND_0011643,66,1.6220,Product company experience; shipped vector db / hybrid search.
+CAND_0017111,67,1.6180,5.3 yrs exp; product company experience; shipped vector db / hybrid search.
+CAND_0076959,68,1.6180,7.6 yrs exp in core sweet spot; shipped vector db / hybrid search; eval frameworks (ndcg/mrr/a-b).
+CAND_0097365,69,1.6160,Product company experience; shipped vector db / hybrid search.
+CAND_0001086,70,1.6140,8.0 yrs exp in core sweet spot; product company experience; shipped vector db / hybrid search.
+CAND_0024116,71,1.6140,7.7 yrs exp in core sweet spot; product company experience; shipped vector db / hybrid search.
+CAND_0033520,72,1.6140,6.5 yrs exp in core sweet spot; product company experience; shipped vector db / hybrid search.
+CAND_0034925,73,1.6140,7.0 yrs exp in core sweet spot; product company experience; shipped vector db / hybrid search.
+CAND_0036676,74,1.6140,6.6 yrs exp in core sweet spot; product company experience; eval frameworks (ndcg/mrr/a-b).
+CAND_0040192,75,1.6140,7.0 yrs exp in core sweet spot; embedding-based retrieval experience; eval frameworks (ndcg/mrr/a-b).
+CAND_0044378,76,1.6140,6.6 yrs exp in core sweet spot; product company experience; eval frameworks (ndcg/mrr/a-b).
+CAND_0046525,77,1.6140,6.1 yrs exp in core sweet spot; shipped vector db / hybrid search; eval frameworks (ndcg/mrr/a-b).
+CAND_0047310,78,1.6140,6.8 yrs exp in core sweet spot; product company experience; shipped vector db / hybrid search.
+CAND_0054100,79,1.6140,6.0 yrs exp in core sweet spot; shipped vector db / hybrid search; eval frameworks (ndcg/mrr/a-b).
+CAND_0071652,80,1.6140,7.9 yrs exp in core sweet spot; embedding-based retrieval experience; eval frameworks (ndcg/mrr/a-b).
+CAND_0090690,81,1.6140,Shipped vector db / hybrid search; eval frameworks (ndcg/mrr/a-b).
+CAND_0084005,82,1.6100,6.1 yrs exp in core sweet spot; eval frameworks (ndcg/mrr/a-b); sub-30 notice.
+CAND_0099021,83,1.6100,6.3 yrs exp in core sweet spot; shipped vector db / hybrid search; eval frameworks (ndcg/mrr/a-b).
+CAND_0018731,84,1.6060,7.3 yrs exp in core sweet spot; eval frameworks (ndcg/mrr/a-b); sub-30 notice.
+CAND_0011125,85,1.6020,6.6 yrs exp in core sweet spot; product company experience; shipped vector db / hybrid search.
+CAND_0030348,86,1.6020,Shipped vector db / hybrid search; eval frameworks (ndcg/mrr/a-b).
+CAND_0075489,87,1.6010,6.5 yrs exp in core sweet spot; product company experience; shipped vector db / hybrid search.
+CAND_0016699,88,1.5980,9.0 yrs exp; product company experience; sub-30 notice.
+CAND_0098888,89,1.5970,6.4 yrs exp in core sweet spot; eval frameworks (ndcg/mrr/a-b).
+CAND_0005460,90,1.5850,7.0 yrs exp in core sweet spot; product company experience; shipped vector db / hybrid search.
+CAND_0007596,91,1.5790,Product company experience; shipped vector db / hybrid search.
+CAND_0046132,92,1.5790,Sub-30 notice.
+CAND_0077498,93,1.5790,5.4 yrs exp; shipped vector db / hybrid search.
+CAND_0079550,94,1.5790,Product company experience; eval frameworks (ndcg/mrr/a-b).
+CAND_0033971,95,1.5780,6.4 yrs exp in core sweet spot; shipped vector db / hybrid search.
+CAND_0043222,96,1.5780,6.7 yrs exp in core sweet spot; shipped vector db / hybrid search.
+CAND_0054937,97,1.5780,7.3 yrs exp in core sweet spot; shipped vector db / hybrid search.
+CAND_0059422,98,1.5780,7.7 yrs exp in core sweet spot; shipped vector db / hybrid search.
+CAND_0091229,99,1.5780,7.0 yrs exp in core sweet spot; shipped vector db / hybrid search.
+CAND_0028888,100,1.5740,7.4 yrs exp in core sweet spot; shipped vector db / hybrid search; sub-30 notice.
